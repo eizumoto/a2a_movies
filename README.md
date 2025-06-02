@@ -32,7 +32,7 @@ python movie_sales.py
 
 Uses Java 21
 
-runs from A2A/java/movies
+runs from java/movies
 build:
 ```
 run mvn clean package
@@ -43,3 +43,6 @@ run:
 ```
 java -jar ./target/movies-1.0-SNAPSHOT.jar
 ```
+There is also just a jar for executing without having to build it under the java folder
+```
+java -jar ./java/movies-1.0-SNAPSHOT.jar
