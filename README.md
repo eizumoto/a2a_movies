@@ -1,7 +1,8 @@
-# A2A Movies example
+# A2A Movies Example
 
 
 ## Database:
+
 
 Uses postgres 16
 
